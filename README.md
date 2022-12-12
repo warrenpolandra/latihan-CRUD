@@ -1,6 +1,6 @@
 # latihan-CRUD
 
-### Latihan CRUD Pemrograman Web C 2022##
+### Latihan CRUD Pemrograman Web C 2022
 
 ### Nama: Warren Gerald Polandra
 
